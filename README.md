@@ -1,16 +1,39 @@
-# Hi guys
+Hey there! 👋 I'm Carlos Joel
 
-I´m Carlos Joel, un apasionado **[Tu Rol, ej. Desarrollador Web / Data Analyst / Estudiante de Software]** en constante aprendizaje y desarrollo de proyectos.
+🎓 Computer Science Student | 💻 Aspiring Developer | 🚀 Lifelong Learner
 
----
+Welcome to my GitHub profile! I'm a student passionate about technology, programming, and building things that make a difference.
 
-### 🚀 Sobre mí
+🌱 About Me
+🎓 Currently studying [Your Degree / Major]
+💻 Learning [Programming Languages / Technologies]
+🔭 Working on personal projects and university assignments
+🧠 Always curious and eager to learn new things
+🎯 My goal is to become a better developer, one project at a time!
+🛠️ Languages & Tools
 
-- 🔭 I am currently a.**[student at the Central University of Ecuador]**.
-- ⚡ An interesting fact about me is that **[I'm a huge procrastinator. ]**.
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+</p>
 
-### 🛠️ Tecnologías y Herramientas
+Currently learning and exploring new technologies!
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+📚 What I'm Working On
+📌 Improving my programming skills
+🧩 Solving coding challenges
+🛠️ Building projects to put my knowledge into practice
+🌐 Exploring new areas of software development
+📊 GitHub Stats
+
+!GitHub Stats
+
+!Top Languages
+
+🤝 Let's Connect!
+💼 GitHub: @YOUR_USERNAME
+📧 Email: your.email@example.com
+🔗 LinkedIn: Your LinkedIn Profile
+
+⭐ "Learning by doing, improving every day."
+
+Thanks for stopping by! 😊
