@@ -1,34 +1,57 @@
-Hey there! 👋 I'm Carlos Joel
+# 👋 Hey, I'm Carlos Joel!
 
-🎓 Computer Science Student | 💻 Aspiring Developer | 🚀 Lifelong Learner
+### 🎓 Information Systems Engineering Student
+**Universidad Central del Ecuador 🇪🇨**
 
-Welcome to my GitHub profile! I'm a student passionate about technology, programming, and building things that make a difference.
+💻 Passionate about software development and technology. I'm constantly learning, expanding my knowledge, and improving my skills to become a better developer and achieve my goals. 🚀
 
-🌱 About Me
-🎓 Currently studying [Your Degree / Major]
-💻 Learning [Programming Languages / Technologies]
-🔭 Working on personal projects and university assignments
-🧠 Always curious and eager to learn new things
-🎯 My goal is to become a better developer, one project at a time!
-🛠️ Languages & Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+### 🧑‍💻 About Me
+
+- 🎓 Currently studying Information Systems Engineering.
+- 💡 Passionate about software development and emerging technologies.
+- 🌱 Always learning and working on improving my programming skills.
+- 🎯 Focused on growing as a developer and building meaningful projects.
+
+---
+
+### ⚡ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql" alt="My Tech Stack" />
 </p>
 
-Currently learning and exploring new technologies!
+### 🛠️ Tools & Technologies
 
-📚 What I'm Working On
-📌 Improving my programming skills
-🧩 Solving coding challenges
-🛠️ Building projects to put my knowledge into practice
-🌐 Exploring new areas of software development
-📊 GitHub Stats
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" alt="Tools and Technologies" />
+</p>
 
-!GitHub Stats
+---
 
-!Top Languages
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Every expert was once a beginner.”</i> 🚀
+</p>
 🤝 Let's Connect!
 💼 GitHub: @YOUR_USERNAME
 📧 Email: your.email@example.com
