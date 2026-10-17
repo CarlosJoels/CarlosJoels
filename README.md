@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarlosJoels&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJoels&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -42,21 +42,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/CarlosJoels">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>“Every expert was once a beginner.”</i> 🚀
-</p>
-🤝 Let's Connect!
-💼 GitHub: @YOUR_USERNAME
-📧 Email: your.email@example.com
-🔗 LinkedIn: Your LinkedIn Profile
-
-⭐ "Learning by doing, improving every day."
-
-Thanks for stopping by! 😊
